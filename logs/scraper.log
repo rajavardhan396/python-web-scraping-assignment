@@ -1,0 +1,4 @@
+2026-10-06 12:26:12,256 | INFO | Starting scraping assignment pipeline
+2026-10-06 12:26:34,307 | INFO | Wrote output/final_dataset.csv
+2026-10-06 12:26:34,308 | INFO | Wrote output/summary_report.json
+2026-10-06 12:26:34,308 | INFO | Pipeline complete: 0 final records, 0 duplicates
